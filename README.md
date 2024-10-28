@@ -52,6 +52,6 @@ numpy, pandas, matplotlib, sklearn
 
 ### [Полный цикл работы с данными](https://github.com/0neF0rA11/MachineLearning/blob/main/10_German_Credit.ipynb)  
 **Цель**:  
-Предсказываем на реальных данных кому можна дать кредит. 
+Предсказываем на реальных данных кому можна дать кредит.  
 **Используемые инструменты**:  
 numpy, pandas, matplotlib, sklearn, предобработка данных
