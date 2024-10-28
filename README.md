@@ -40,13 +40,13 @@ numpy, pandas, matplotlib, sklearn
 
 ### [Выявление переобучение/недообучения и борьба с ними](https://github.com/0neF0rA11/MachineLearning/blob/main/08_Overtraining_Undertraining.ipynb)
 **Цель**:  
-Научиться выявлять недообучение и переодучение модели. А также справляться с ними используя регуляризацию,  feature engineering и ансамблирование.  
+Научиться выявлять недообучение и переодучение модели. А также справляться с ними используя регуляризацию,  feature engineering и ансамблирование.   
 **Используемые инструменты**:  
 numpy, pandas, matplotlib, sklearn
 
 ### [Кросс валидация](https://github.com/0neF0rA11/MachineLearning/blob/main/09_Cross_validation.ipynb)
 **Цель**:  
-Разбираемся, что такое кросс валидация и с чем ее едят. 
+Разбираемся, что такое кросс валидация и с чем ее едят.  
 **Используемые инструменты**:  
 numpy, pandas, matplotlib, sklearn
 
